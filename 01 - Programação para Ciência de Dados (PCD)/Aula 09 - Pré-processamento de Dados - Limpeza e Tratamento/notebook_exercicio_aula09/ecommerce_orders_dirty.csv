@@ -1,0 +1,821 @@
+order_date,customer_id,product,category,quantity,price,payment_method,status,customer_email,region
+2024-08-23,1583,Smartwatch,Electronics,4.0,,Debit Card,Shipped,CUSTOMER1583@EMAIL.COM,east
+2024-02-23,8674,Smartwatch,Audio,3.0,,Bank Transfer,Cancelled,customer8674@email.com,Central
+2024-10-06,5670,Laptop,Audio,1.0,,Bank Transfer,Processing,customer5670@email.com,West
+2024-04-04,1634,Camera,Computers,4.0,2580.97,Credit Card,Cancelled,CUSTOMER1634@EMAIL.COM,North
+2024-09-02,3419,Headphones,,5.0,1851.77,Credit Card,Delivered ,customer3419@email.com,Central
+2024-01-02,4451,Speaker,Electronics,3.0,1810.49,PayPal,Shipped ,customer4451@email.com,South
+2024-05-14,3824,Mouse,,4.0,2791.4,Bank Transfer,Delivered,customer3824@email.com,East
+2024-01-28,9669,Keyboard,Accessories,2.0,713.87,Pix,Processing,customer9669@email.com,North
+2024-07-09,4998,Speaker,Audio,???,2248.28,Pix,Processing,customer4998@email.com,West
+2024-08-01,2927,Laptop,,3.0,1029.39,Credit Card,DELIVERED,customer2927@email.com,South
+2024-10-01,3139,Mouse,Photography,3.0,1705.7,Pix,Shipped,CUSTOMER3139@EMAIL.COM,West
+2024-08-23,4466,Keyboard,Electronics,1.0,1317.39,Pix,Delivered,customer4466@email.com,North
+2024-03-30,8069,Mouse,Computers,1.0,1335.15,Pix,Pending,customer8069@email.com,West
+2024-02-24,9512,Speaker,Accessories,5.0,1139.97,Credit Card,PROCESSING,customer9512@email.com,Central
+2024-01-06,6724,Smartphone,Computers,5.0,1829.42,Debit Card,Processing,customer6724@email.com,East
+2024-04-02,5361,Speaker,Audio,2.0,1073.31,Pix,Shipped,customer5361@email.com,East
+2024-08-29,2908,Speaker,,,331.35,Bank Transfer,Cancelled,customer2908@email.com,South
+2024-05-23,5873,Camera,Computers,2.0,1868.13,Debit Card,Delivered,customer5873@email.com,Central
+2024-01-18,8141,Monitor,Electronics,4.0,182.64,Pix,Delivered,customer8141 @ email.com,South
+2024-02-27,1329,Camera,,,2777.34, PayPal ,Pending,customer1329@email.com,Central
+2024-05-29,7656,Monitor,Photography,3.0,,Bank Transfer,DELIVERED,customer7656 @ email.com,East
+2024-05-31,9173,Smartwatch,Electronics,1.0,855.2,Pix,Shipped,customer9173@email.com,East
+2024-02-08,7645,Smartwatch,Computers,N/A,281.75,PayPal,Delivered,customer7645@email.com,Central
+2024-07-08,7212,Tablet,Electronics,5.0,1249.34,Pix,SHIPPED,customer7212@email.com,Central
+2024-03-13,2266,Mouse,Audio,1.0,620.09,PayPal,Cancelled,customer2266@email.com,South
+2024-02-02,9705,Speaker,Audio,4.0,75.68,Debit Card,Delivered,customer9705@email.com,Central
+2024-08-07,9220,Monitor,Computers,1.0,1962.3,Debit Card,Pending,customer9220@email.com,south
+2024-07-05,3717,Keyboard,Electronics,4.0,2072.82,Credit Card,SHIPPED,customer3717@email.com,East
+2024-05-23,1060,Headphones,Electronics,5.0,1589.76,Credit Card,Processing,customer1060 @ email.com,West
+2024-08-26,2394,Smartphone,Accessories,3.0,377.85,Debit Card,Cancelled,customer2394@email.com,Central
+2024-04-17,2524,Camera,Electronics,,1741.01,Debit Card,PENDING,customer2524@email.com,West
+2024-03-18,8179,Speaker,Audio,,308.39,Pix,Pending,customer8179@email.com,North
+2024-02-08,4738,Keyboard,Photography,2.0,758.21, Credit Card ,Pending,customer4738@email.com,Central
+2024-02-13,4797,Camera,Computers,???,286.66,Bank Transfer,Cancelled ,customer4797@email.com,North
+2024-10-01,5197,Headphones,Computers,Unknown,832.84,Debit Card,Pending,customer5197@email.com,South
+2024-01-23,4380,Keyboard,Electronics,3.0,2686.1, Pix ,Pending,customer4380@email.com,West
+2024-08-24,6984,Keyboard,Audio,2.0,1274.17, PayPal ,Delivered,customer6984@email.com,West
+2024-07-31,8804,Smartwatch,Electronics,1.0,2286.89,Pix,DELIVERED,customer8804@email.com,South
+2024-02-03,1917,Mouse,Electronics,4.0,743.23,Debit Card,Pending,customer1917@email.com,North
+2024-05-07,6732,Laptop,,,96.44,PayPal,Shipped,customer6732@email.com,North
+2024-02-28,1260,Keyboard,,1.0,176.37,Credit Card,Shipped,customer1260@email.com,East
+2024-02-11,1094,Mouse,Electronics,???,, PayPal ,Delivered,customer1094@email.com,Central
+2024-09-08,9038,Smartphone,Computers,4.0,2751.23,Credit Card,Cancelled,customer9038@email.com,South
+2024-08-20,2265,Keyboard,,1.0,99.43,Debit Card,Cancelled,customer2265@email.com,Central
+2024-07-12,1822,Tablet,Electronics,3.0,1277.84,Debit Card,Processing,customer1822@email.com,South
+2024-03-09,3736,Laptop,Audio,,2823.65,Pix,Processing,customer3736@email.com,West
+2024-04-21,2481,Smartwatch,Audio,3.0,776.54,Credit Card,Delivered,customer2481@email.com,Central
+2024-04-05,8693,Tablet,Electronics,2.0,,Credit Card,Pending,customer8693@email.com,central
+2024-02-22,6142,Mouse,Computers,4.0,2152.69,Pix,Cancelled,customer6142@email.com,Central
+2024-09-05,7090,Headphones,Audio,,680.41,Debit Card,Cancelled,customer7090@email.com,North
+2024-06-21,5795,Laptop,Computers,1.0,391.32,Debit Card,PROCESSING,customer5795@email.com,North
+2024-07-08,4741,Mouse,Photography,N/A,2698.34,PayPal,Cancelled,customer4741@email.com,North
+2024-09-08,5197,Camera,Audio,2.0,,Bank Transfer,Cancelled,customer5197@email.com,East
+2024-04-10,7122,Tablet,Electronics,4.0,2819.74,,Shipped ,customer7122@email.com,north
+2024-08-22,7881,Monitor,Accessories,4.0,1765.18, Debit Card ,Shipped,customer7881@email.com,West
+2024-04-10,7371,Keyboard,Photography,4.0,2256.12,Pix,Cancelled,customer7371@email.com,East
+2024-03-30,4511,Smartwatch,Computers,3.0,2050.44,Debit Card,Shipped,customer4511@email.com,South
+2024-01-08,1686,Mouse,Computers,2.0,2787900.0,Debit Card,Cancelled,customer1686@email.com,South
+2024-02-02,7640,Laptop,Electronics,,1030.01,Debit Card,Pending,customer7640@email.com,East
+2024-10-03,1575,Speaker,Audio,5.0,2353.71,Pix,Delivered,customer1575@email.com,South
+2024-02-03,5109,Camera,Audio,3.0,815.2,Credit Card,Processing,customer5109@email.com,East
+2024-06-21,8009,Camera,,3.0,510.31,Pix,Shipped,customer8009@email.com,South
+2024-03-26,9238,Laptop,Audio,1.0,,PayPal,Shipped,customer9238@email.com,South
+2024-04-10,1269,Laptop,Audio,1.0,343.66,, Shipped,customer1269@email.com,South
+2024-01-27,2279,Headphones,Computers,3.0,2927.35,Pix,Shipped,customer2279@email.com,East
+2024-06-16,5036,Tablet,Photography,3.0,341.27,Debit Card,Shipped,customer5036@email.com,West
+2024-10-11,1001,Speaker,Photography,5.0,,Bank Transfer,Cancelled,customer1001@email.com,Central
+2024-03-03,6765,Laptop,Audio,1.0,1359.38,Debit Card,Shipped,customer6765@email.com,West
+2024-02-17,3708,Keyboard,Accessories,3.0,1563.12,Pix,Cancelled,customer3708@email.com,North
+2024-02-23,6468,Mouse,Photography,4.0,, Debit Card ,Processing,customer6468@email.com,East
+2024-06-20,5612,Mouse,Computers,,, Credit Card ,Delivered,CUSTOMER5612@EMAIL.COM,West
+2024-06-28,6897,Speaker,Computers,1.0,,Credit Card,Processing,customer6897@email.com,West
+2024-04-12,9920,Mouse,Electronics,2.0,948.25,Debit Card,Pending,customer9920@email.com,North
+2024-05-23,9194,Laptop,Accessories,1.0,1483.16,Pix,Delivered,customer9194@email.com,West
+2024-05-25,8424,Speaker,,5.0,332.4,Pix,Cancelled,customer8424@email.com,east
+2024-05-10,7722,Headphones,Audio,3.0,2089.07,Credit Card,Shipped,customer7722@email.com,Central
+2024-05-14,3824,Mouse,,4.0,2791.4,Bank Transfer,Delivered,customer3824@email.com,East
+2024-08-31,2342,Tablet,Electronics,2.0,,PayPal,Pending,customer2342@email.com,north
+2024-10-18,1661,Smartwatch,Electronics,5.0,,Pix,Processing,customer1661@email.com,East
+2024-08-02,2218,Speaker,Accessories,,692.83,Pix, Delivered,customer2218@email.com,South
+2024-02-22,1153,Smartphone,Photography,4.0,1045.57,Bank Transfer,CANCELLED,customer1153@email.com,South
+2024-06-22,8992,Monitor,,4.0,,Debit Card,Cancelled,customer8992@email.com,North
+2024-10-14,9801,Smartwatch,Photography,4.0,1985.36,PayPal,Processing,customer9801@email.com,South
+2024-08-04,3050,Mouse,Audio,1.0,312.52,Debit Card,Cancelled,customer3050@email.com,North
+2024-05-26,6392,Tablet,,4.0,,Debit Card,Cancelled,customer6392@email.com,South
+2024-06-05,5033,Keyboard,Computers,5.0,2612.49,Pix,Processing,customer5033@email.com,South
+2024-05-15,9389,Tablet,Accessories,,444.27,Bank Transfer,Shipped,customer9389@email.com,West
+2024-07-20,1525,Tablet,Electronics,3.0,1986.34,Pix,Processing,customer1525@email.com,West
+2024-06-30,2704,Camera,Electronics,2.0,776.42,Bank Transfer,Shipped,customer2704 @ email.com,west
+2024-04-29,4549,Laptop,Photography,5.0,734.56, Credit Card ,Pending,customer4549@email.com,Central
+2024-07-19,7540,Camera,,1.0,,Credit Card,Shipped,CUSTOMER7540@EMAIL.COM,East
+2024-04-05,9407,Tablet,Photography,4.0,2122.34,PayPal,Processing,customer9407@email.com,east
+2024-06-12,3033,Smartwatch,Computers,2.0,,Bank Transfer,Cancelled,customer3033@email.com,South
+2024-08-04,6390,Monitor,Computers,,1420.61,Debit Card,Delivered,customer6390@email.com,South
+2024-05-24,9363,Laptop,Electronics,4.0,1160.76, Credit Card ,Shipped,customer9363@email.com,East
+2024-06-18,6941,Tablet,Electronics,5.0,2714.73,PayPal,Cancelled,customer6941@email.com,East
+2024-06-08,7456,Speaker,Electronics,3.0,458.38,Debit Card,Shipped,customer7456@email.com,East
+2024-07-15,1984,Headphones,Electronics,4.0,2353.84,Pix,SHIPPED,customer1984@email.com,South
+2024-09-20,4850,Keyboard,Accessories,5.0,1238.19,Pix,Delivered,customer4850@email.com,Central
+2024-05-26,3106,Laptop,Photography,,,Bank Transfer,Delivered ,customer3106@email.com,West
+2024-05-24,7342,Keyboard,Photography,2.0,367.46,Pix,Shipped,customer7342@email.com,South
+2024-02-03,8062,Tablet,Computers,5.0,1527.1,Bank Transfer,Pending,customer8062@email.com,North
+2024-01-21,6560,Smartphone,Photography,2.0,89.43,Credit Card,DELIVERED,customer6560@email.com,South
+2024-02-13,3898,Monitor,Electronics,4.0,1073.54,Pix,Processing,customer3898@email.com,East
+2024-09-20,7430,Mouse,,2.0,,Pix,Delivered,customer7430 @ email.com,North
+2024-09-09,4972,Monitor,Accessories,3.0,1703.71, Bank Transfer ,Shipped,customer4972@email.com,Central
+2024-10-10,3679,Camera,Audio,2.0,2960.85,Debit Card,Cancelled,customer3679@email.com,East
+2024-03-20,2007,Laptop,Computers,3.0,1107.09,PayPal,Pending,customer2007@email.com,South
+2024-08-01,2865,Speaker,Electronics,4.0,2950.75,,PROCESSING,customer2865@email.com,South
+2024-07-30,1038,Keyboard,Accessories,3.0,,Bank Transfer,Cancelled,customer1038@email.com,Central
+2024-05-08,2970,Keyboard,Audio,Unknown,,Credit Card,Delivered,customer2970@email.com,South
+2024-06-19,8783,Keyboard,Photography,3.0,2135.17,Debit Card,Shipped,customer8783@email.com,Central
+2024-08-09,2500,Keyboard,Accessories,3.0,2749.15,Credit Card,SHIPPED,customer2500@email.com,East
+2024-03-10,7099,Mouse,Computers,5.0,1827.29,Credit Card,Shipped,customer7099@email.com,East
+2024-10-05,7960,Keyboard,,3.0,2848.08,Pix,Delivered,customer7960@email.com,West
+2024-01-28,3071,Mouse,Electronics,3.0,2490.7,,Shipped,customer3071@email.com,Central
+2024-02-27,8561,Keyboard,Computers,4.0,1744.59,Pix, Pending,customer8561@email.com,South
+2024-08-04,6429,Mouse,Accessories,1.0,2363.41,PayPal,Shipped,customer6429@email.com,West
+2024-08-18,6788,Laptop,Electronics,1.0,1928.45,PayPal,Cancelled,customer6788@email.com,north
+2024-04-09,9915,Smartwatch,Audio,4.0,663.47,Bank Transfer,Pending,customer9915 @ email.com,South
+2024-04-22,7783,Smartphone,Audio,???,2822.8,Debit Card,Shipped,customer7783@email.com,south
+2024-06-27,3674,Laptop,Photography,2.0,2362.13,Pix,Delivered,customer3674@email.com,South
+2024-10-07,2622,Camera,Photography,5.0,422.75,Pix,Pending,customer2622@email.com,South
+2024-08-08,6016,Smartwatch,Computers,2.0,94.77,PayPal,Cancelled,customer6016@email.com,East
+2024-02-06,4462,Keyboard,Computers,3.0,2066.19,,Pending,customer4462@email.com,West
+2024-01-08,9503,Mouse,Accessories,5.0,665.34,Debit Card,Cancelled,customer9503@email.com,South
+2024-05-04,-999,Laptop,Photography,1.0,2714.41,Debit Card,Cancelled,CUSTOMER8479@EMAIL.COM,East
+2024-06-21,2136,Monitor,Computers,5.0,202.77,Credit Card,Processing,customer2136@email.com,South
+2024-08-24,9554,Smartwatch,,4.0,2256.61,Credit Card,PROCESSING,customer9554@email.com,North
+2024-08-29,1556,Smartphone,Accessories,3.0,1594.58,PayPal,Cancelled,customer1556@email.com,Central
+2024-08-26,5107,Smartphone,Photography,1.0,68.98,PayPal,Shipped,customer5107@email.com,West
+2024-02-20,2619,Tablet,Photography,5.0,,,Pending,customer2619@email.com,North
+2024-06-02,6797,Keyboard,Electronics,3.0,2105.25,Pix,Shipped,customer6797@email.com,North
+2024-08-07,4342,Camera,Audio,2.0,2702.82,Debit Card,Pending,customer4342@email.com,West
+2024-08-14,1145,Smartwatch,Audio,3.0,1385.8,Debit Card,Processing,customer1145@email.com,west
+2024-09-02,4629,Smartphone,Electronics,5.0,2110.67,Debit Card,Delivered,customer4629@email.com,West
+2024-06-11,6567,Camera,Audio,4.0,1321.71,PayPal,Processing,customer6567@email.com,South
+2024-03-01,4665,Smartphone,Audio,,1478.95, PayPal ,Cancelled,customer4665@email.com,East
+2024-07-01,5805,Laptop,Photography,N/A,227.28,PayPal,Cancelled,customer5805@email.com,North
+2024-05-11,5311,Smartwatch,Electronics,4.0,708.03,,Pending,customer5311@email.com,South
+2024-01-15,3958,Camera,,5.0,,PayPal,Pending,customer3958@email.com,East
+2024-05-24,1013,Speaker,,3.0,395.98,Pix,Delivered,customer1013@email.com,south
+2024-01-30,6791,Camera,Computers,4.0,1717.99,Bank Transfer,Shipped,customer6791@email.com,south
+2024-08-18,1374,Tablet,Photography,2.0,153.07,Pix,Pending,customer1374 @ email.com,East
+2024-05-14,4452,Smartphone,Electronics,,2956.65,Bank Transfer,Shipped,customer4452@email.com,East
+2024-06-25,3255,Smartwatch,Photography,3.0,983.93,Debit Card,Pending ,customer3255@email.com,Central
+2024-03-16,4993,Keyboard,Accessories,1.0,1957.47,Bank Transfer,Delivered,customer4993@email.com,Central
+2024-02-23,8776,Camera,Electronics,3.0,1876.03,Debit Card,Cancelled,customer8776@email.com,East
+2024-05-01,1846,Headphones,Electronics,4.0,1960.93,Pix,Delivered,customer1846@email.com,North
+2024-04-25,1074,Smartphone,Accessories,5.0,612.64,Debit Card,Delivered,customer1074@email.com,Central
+2024-05-10,-999,Smartphone,,1.0,494.29,,Processing,customer7359@email.com,East
+2024-09-20,1481,Mouse,Accessories,4.0,2687.26,Debit Card,Cancelled,customer1481@email.com,South
+2024-08-27,9619,Laptop,Accessories,3.0,,Pix,Pending,customer9619@email.com,North
+2024-02-08,9712,Smartwatch,Computers,2.0,2152.9,PayPal,Shipped ,customer9712@email.com,North
+2024-09-05,7731,Smartwatch,Audio,3.0,2340.06,PayPal,Shipped,customer7731@email.com,West
+2024-04-16,9837,Smartwatch,Photography,5.0,,Debit Card, Processing,customer9837@email.com,West
+2024-03-15,3143,Speaker,Audio,1.0,1075.15,Debit Card,Delivered,customer3143@email.com,Central
+2024-01-12,5346,Smartwatch,Photography,5.0,1818.9,Bank Transfer,Cancelled,customer5346@email.com,South
+2024-09-27,8101,Camera,Audio,3.0,2367.65,PayPal,Pending,customer8101@email.com,North
+2024-10-24,5926,Smartphone,Audio,3.0,2122.79,Debit Card,Delivered,customer5926@email.com,North
+2024-09-19,4335,Smartwatch,Computers,2.0,730.84,PayPal,Delivered,customer4335@email.com,Central
+2024-04-08,8832,Smartphone,Computers,4.0,536.41,PayPal,Delivered,customer8832@email.com,Central
+2024-05-25,3113,Camera,Photography,5.0,,Credit Card,Pending,customer3113@email.com,central
+2024-07-02,2949,Headphones,Computers,5.0,520.89,Credit Card,PENDING,customer2949@email.com,West
+2024-08-12,6975,Smartwatch,Photography,2.0,374.69,Bank Transfer,Delivered,CUSTOMER6975@EMAIL.COM,central
+2024-03-08,3198,Headphones,Computers,4.0,,Bank Transfer,CANCELLED,customer3198@email.com,South
+2024-08-11,9056,Smartwatch,Electronics,3.0,2744.04,Bank Transfer,Processing,customer9056@email.com,North
+2024-04-26,5090,Mouse,Photography,2.0,749.4,Debit Card,Pending,customer5090@email.com,East
+2024-01-09,5133,Smartphone,Accessories,1.0,2114.09,PayPal,Delivered,customer5133@email.com,East
+2024-07-03,5873,Camera,Electronics,2.0,2331.98,Pix,Pending,customer5873@email.com,Central
+2024-05-18,2202,Camera,Audio,5.0,1379.79, Pix ,Delivered,customer2202@email.com,south
+2024-07-16,5662,Laptop,Computers,5.0,1273.7,Bank Transfer,Shipped,customer5662@email.com,West
+2024-05-01,4640,Smartphone,Photography,3.0,2368.15,Debit Card,Delivered,customer4640@email.com,South
+2024-05-23,9058,Headphones,Audio,1.0,,Pix,Cancelled,customer9058@email.com,North
+2024-02-15,9428,Monitor,Audio,3.0,969.48,PayPal,Cancelled,customer9428@email.com,North
+2024-06-18,2762,Camera,Computers,4.0,1144.95,Debit Card,PENDING,customer2762@email.com,South
+2024-06-25,2980,Smartwatch,Photography,3.0,823.91,Debit Card,Shipped ,customer2980@email.com,Central
+2024-04-01,7819,Keyboard,Photography,5.0,2237.73,Pix,Cancelled,customer7819@email.com,South
+2024-05-27,9477,Headphones,Audio,5.0,-1935.14,Credit Card,Pending,customer9477@email.com,east
+2024-05-13,6109,Tablet,Photography,4.0,2680.55,Bank Transfer,Pending,customer6109@email.com,Central
+2024-09-10,2521,Monitor,Electronics,5.0,2331.47,Bank Transfer,Shipped,customer2521@email.com,North
+2024-06-21,5124,Laptop,Computers,1.0,1563.05,,Shipped,customer5124@email.com,Central
+2024-04-30,5780,Mouse,Audio,4.0,875.25,PayPal,Delivered ,customer5780@email.com,East
+2024-06-10,8546,Monitor,Accessories,3.0,1202.73,Bank Transfer,Cancelled,customer8546@email.com,South
+2024-03-15,4760,Smartwatch,Audio,3.0,2556.13,Debit Card,Shipped,customer4760@email.com,South
+2024-03-23,-999,Laptop,Photography,3.0,749.58,Bank Transfer,Cancelled,customer4633@email.com,South
+2024-07-21,6352,Smartphone,Accessories,N/A,,Bank Transfer,Pending,customer6352@email.com,South
+2024-06-04,5799,Headphones,Audio,,, Credit Card ,Delivered,customer5799@email.com,East
+2024-01-01,9884,Tablet,Photography,5.0,1329.62,Debit Card,Pending,customer9884@email.com,West
+2024-04-04,4810,Speaker,Electronics,3.0,1543.67,Credit Card,Cancelled,customer4810@email.com,East
+2024-03-02,6690,Tablet,,5.0,388.65,Bank Transfer,Delivered,customer6690@email.com,Central
+2024-01-13,1806,Tablet,Audio,1.0,2719.06, PayPal ,PENDING,customer1806@email.com,Central
+2024-09-08,2065,Smartphone,Electronics,2.0,,Bank Transfer,Processing,customer2065 @ email.com,North
+2024-09-12,4093,Headphones,Audio,1.0,870.39,Credit Card, Processing,customer4093@email.com,West
+2024-07-22,5430,Laptop,Electronics,???,2398.22,Credit Card, Pending,customer5430 @ email.com,Central
+2024-09-08,8311,Tablet,Photography,4.0,2862.93,Bank Transfer,Processing,customer8311@email.com,South
+2024-06-10,6109,Headphones,Computers,2.0,,Debit Card,Cancelled,customer6109@email.com,West
+2024-01-13,5599,Headphones,Audio,5.0,548.73,Debit Card,Processing,customer5599@email.com,East
+2024-06-08,3064,Laptop,Electronics,3.0,1694.07,Bank Transfer,Cancelled,customer3064@email.com,Central
+2024-10-11,5806,Laptop,Audio,,414030.0,,Shipped,customer5806@email.com,south
+2024-10-09,1804,Laptop,Computers,2.0,942.31,Credit Card,Delivered,customer1804@email.com,South
+2024-04-08,7016,Speaker,Photography,5.0,246.26,Bank Transfer,Cancelled,CUSTOMER7016@EMAIL.COM,South
+2024-10-06,8980,Smartwatch,Audio,,988.25,Pix,Cancelled,customer8980@email.com,West
+2024-08-25,6631,Headphones,Computers,4.0,410.23,Debit Card,CANCELLED,customer6631@email.com,South
+2024-02-02,2120,Monitor,Accessories,4.0,871.45,PayPal,Cancelled,customer2120@email.com,South
+2024-06-06,5841,Smartwatch,Photography,,698.14,PayPal,Delivered,CUSTOMER5841@EMAIL.COM,East
+2024-07-16,5944,Mouse,Audio,5.0,1686.33,Bank Transfer,Processing ,customer5944@email.com,South
+2024-03-05,9684,Speaker,Computers,1.0,1812.01,Bank Transfer,Cancelled,customer9684@email.com,West
+2024-10-04,7609,Laptop,Electronics,4.0,2300.54,Debit Card,Processing ,customer7609@email.com,West
+2024-05-30,7136,Tablet,Computers,2.0,1700.76,,Shipped,customer7136@email.com,Central
+2024-06-28,9766,Smartphone,Audio,3.0,2611.81,PayPal,Delivered,customer9766@email.com,West
+2024-09-08,3712,Camera,Computers,,596.85,PayPal,Processing ,customer3712@email.com,North
+2024-10-08,9984,Mouse,Accessories,2.0,2517.67,Pix,Pending,customer9984@email.com,Central
+2024-02-14,9795,Smartwatch,Photography,5.0,988.41,Bank Transfer,Processing,customer9795@email.com,West
+2024-02-04,9162,Laptop,Photography,4.0,1666.7,,DELIVERED,customer9162@email.com,West
+2024-07-06,3192,Keyboard,Accessories,5.0,,Bank Transfer,Cancelled,customer3192@email.com,north
+2024-02-11,5675,Smartphone,Photography,2.0,2214.96,Credit Card,Processing,customer5675@email.com,South
+2024-07-30,3278,Speaker,Computers,???,1087.82,Debit Card,Delivered,customer3278@email.com,South
+2024-06-01,7766,Tablet,Computers,5.0,537.64,PayPal,Processing,customer7766@email.com,east
+2024-06-03,9907,Headphones,Photography,5.0,2108.26,Debit Card,PENDING,customer9907@email.com,West
+2024-01-28,8196,Tablet,Audio,3.0,1247.73,Bank Transfer,Shipped,customer8196@email.com,Central
+2024-10-15,8667,Headphones,Photography,3.0,1670.56,Bank Transfer,Processing,customer8667@email.com,West
+2024-04-22,9609,Camera,Electronics,3.0,1507.74,Bank Transfer,Pending,customer9609@email.com,Central
+2024-04-10,9666,Tablet,Computers,4.0,1357.03,PayPal,DELIVERED,customer9666@email.com,Central
+2024-06-23,6287,Camera,Photography,,,Bank Transfer,Delivered,customer6287@email.com,Central
+2024-10-08,4432,Camera,Audio,,,PayPal,Shipped,customer4432@email.com,West
+2024-04-06,1951,Tablet,,3.0,555.73,Pix,Shipped,customer1951@email.com,west
+2024-06-02,7675,Camera,Computers,4.0,2418.41,Pix,DELIVERED,customer7675@email.com,West
+2024-08-07,3808,Tablet,Accessories,4.0,693.87,Credit Card,PENDING,customer3808@email.com,Central
+2024-02-27,8715,Camera,Electronics,5.0,1751.01,Bank Transfer,Shipped,CUSTOMER8715@EMAIL.COM,West
+2024-04-17,4368,Smartwatch,Accessories,1.0,90.41,Credit Card,Pending,customer4368@email.com,East
+2024-08-29,3032,Smartwatch,Electronics,,2743.15,Credit Card, Shipped,customer3032@email.com,South
+2024-07-10,7467,Laptop,Audio,,2820.04,Pix,Shipped,customer7467@email.com,central
+2024-08-18,4476,Tablet,Electronics,5.0,100.59,PayPal,Delivered,customer4476@email.com,East
+2024-06-29,1892,Smartphone,Computers,1.0,454.41,Pix,Shipped,customer1892@email.com,Central
+2024-04-12,5289,Speaker,Electronics,N/A,1258.73,Debit Card,Delivered,customer5289@email.com,South
+2024-01-01,7506,Keyboard,Electronics,,2081.85,Debit Card,Shipped,customer7506 @ email.com,North
+2024-08-14,1529,Tablet,Audio,3.0,-2382.04,Bank Transfer,Pending,customer1529@email.com,West
+2024-08-14,6619,Mouse,,5.0,2681.08,Debit Card,Cancelled,customer6619@email.com,South
+2024-08-26,8291,Keyboard,Photography,1.0,2625.41,Pix,Delivered,customer8291@email.com,East
+2024-01-15,2997,Keyboard,Photography,4.0,2186.82,Pix,Delivered,customer2997 @ email.com,Central
+2024-08-15,4356,Speaker,Photography,4.0,,PayPal,Pending,customer4356@email.com,East
+2024-06-29,3051,Speaker,Audio,3.0,1217.34,Debit Card,Shipped,CUSTOMER3051@EMAIL.COM,South
+2024-10-18,8314,Smartwatch,Photography,4.0,,Credit Card,Cancelled,customer8314@email.com,North
+2024-04-25,4072,Mouse,Electronics,2.0,1559.33,Bank Transfer,Pending,customer4072@email.com,Central
+2024-06-03,3969,Camera,Accessories,,1991.34,Pix,Delivered,CUSTOMER3969@EMAIL.COM,Central
+2024-09-10,5547,Tablet,Photography,???,2024.46,Credit Card,PENDING,customer5547@email.com,East
+2024-01-09,6954,Laptop,Computers,,2410.22,Credit Card,Shipped,customer6954@email.com,North
+2024-01-26,3866,Tablet,Audio,4.0,2462.68,Pix,Pending,customer3866@email.com,Central
+2024-05-29,6408,Speaker,Photography,2.0,,Credit Card,Processing,customer6408@email.com,central
+2024-03-02,7024,Keyboard,,4.0,2885.42,Bank Transfer,Shipped,customer7024@email.com,North
+2024-09-29,1001,Keyboard,Computers,2.0,,Credit Card, Delivered,customer1001 @ email.com,North
+2024-04-20,7563,Laptop,,2.0,970.14,Debit Card,Cancelled,customer7563@email.com,north
+2024-01-25,8657,Monitor,Audio,2.0,2596.25,Bank Transfer,Shipped,customer8657@email.com,South
+2024-03-15,4953,Headphones,Computers,1.0,,Bank Transfer,Cancelled,customer4953 @ email.com,East
+2024-04-07,4610,Headphones,Computers,2.0,892.81,,Shipped,customer4610@email.com,East
+2024-02-22,4530,Camera,Computers,5.0,193.54,Bank Transfer,Shipped,customer4530@email.com,North
+2024-02-20,9905,Tablet,,2.0,2186.49,PayPal,Cancelled,customer9905@email.com,Central
+2024-01-15,5225,Monitor,Computers,2.0,1908.62,PayPal,Processing,customer5225@email.com,North
+2024-08-16,3322,Laptop,Photography,2.0,917.15,Pix,Processing,customer3322@email.com,North
+2024-07-20,1077,Smartphone,Audio,5.0,518.1,Credit Card,Shipped,customer1077@email.com,Central
+2024-07-09,7981,Monitor,Audio,5.0,1073.83,Bank Transfer, PROCESSING,customer7981@email.com,North
+2024-05-07,6796,Headphones,Audio,2.0,637.78,Debit Card,Shipped,customer6796@email.com,Central
+2024-02-12,9930,Speaker,Photography,3.0,617.31,PayPal,Delivered,customer9930@email.com,Central
+2024-06-18,7038,Speaker,Accessories,2.0,1366.84,Debit Card,Delivered,customer7038@email.com,Central
+2024-02-23,1341,Tablet,Audio,1.0,2307.22,Debit Card,Processing,customer1341@email.com,West
+2024-01-01,8982,Tablet,Photography,2.0,1790.35,Pix,Processing,customer8982@email.com,South
+2024-04-27,6895,Headphones,Photography,1.0,2293.25,Bank Transfer,Cancelled,customer6895@email.com,South
+2024-09-16,7413,Laptop,Audio,1.0,2154.05,Bank Transfer,Pending,customer7413@email.com,East
+2024-09-18,6760,Mouse,,2.0,795.31,Debit Card,Processing,customer6760@email.com,North
+2024-05-05,3365,Monitor,Accessories,5.0,138.56,Debit Card,SHIPPED,customer3365@email.com,North
+2024-04-06,2387,Camera,Photography,5.0,,Bank Transfer,Delivered,customer2387@email.com,South
+2024-07-23,1089,Tablet,Audio,3.0,948.58,PayPal,Shipped,customer1089@email.com,South
+2024-06-12,5811,Speaker,Photography,3.0,710.75,Debit Card,Cancelled,customer5811@email.com,Central
+2024-01-23,7737,Speaker,Photography,1.0,607.96,Debit Card,Pending,customer7737@email.com,North
+2024-03-18,9595,Smartwatch,Photography,2.0,1775.27,PayPal,Cancelled,customer9595@email.com,North
+2024-06-09,5234,Laptop,Audio,4.0,1378.91,Debit Card,DELIVERED,customer5234 @ email.com,West
+2024-10-15,2682,Camera,Electronics,1.0,1578.91,Bank Transfer,Cancelled,customer2682@email.com,West
+2024-05-05,6150,Tablet,Photography,3.0,2968.82,Pix,Delivered,customer6150@email.com,West
+2024-09-17,6742,Camera,Photography,5.0,-1623.09,PayPal,Delivered,customer6742@email.com,South
+2024-07-08,3136,Smartphone,Computers,5.0,2565.13,Debit Card, Delivered,customer3136@email.com,West
+2024-04-21,4192,Mouse,Accessories,5.0,1559.33,Credit Card,Cancelled,customer4192@email.com,West
+2024-01-22,7988,Monitor,Accessories,3.0,1564.44,Bank Transfer,Cancelled,customer7988@email.com,West
+2024-03-01,4389,Smartphone,Computers,1.0,68.46,Bank Transfer,Shipped,customer4389@email.com,Central
+2024-02-27,1294,Smartwatch,Computers,1.0,2392.09,PayPal,Delivered,customer1294@email.com,East
+2024-09-03,4432,Keyboard,Electronics,,2255.99,PayPal, Cancelled,customer4432@email.com,East
+2024-06-12,3382,Speaker,Computers,4.0,1750.59,Credit Card,Delivered,customer3382@email.com,Central
+2024-05-15,7183,Headphones,,4.0,2114.13,Pix,Cancelled,customer7183@email.com,North
+2024-05-26,4310,Smartwatch,Electronics,4.0,641.63,Pix,Pending,CUSTOMER4310@EMAIL.COM,West
+2024-04-14,9190,Speaker,Electronics,4.0,870.48,Bank Transfer,DELIVERED,customer9190@email.com,South
+2024-08-13,4496,Smartwatch,Computers,1.0,2667.0, Pix ,Cancelled,customer4496@email.com,Central
+2024-04-07,1213,Monitor,Electronics,4.0,1515.84,PayPal,Processing,customer1213@email.com,North
+2024-10-12,4762,Speaker,Accessories,,,Bank Transfer,Delivered,customer4762@email.com,South
+2024-02-23,6463,Headphones,Computers,3.0,1349.69,Pix,Cancelled,customer6463@email.com,East
+2024-06-18,6068,Smartwatch,Computers,,273.2,Bank Transfer,Processing ,customer6068@email.com,East
+2024-05-09,5380,Keyboard,Accessories,4.0,1913.35,Debit Card,Processing,customer5380@email.com,east
+2024-01-14,8491,Laptop,,,-2053.64,,Pending,customer8491@email.com,west
+2024-04-26,3403,Laptop,Photography,3.0,,PayPal,Cancelled,customer3403@email.com,East
+2024-04-22,9070,Tablet,Accessories,3.0,1434.39,PayPal,DELIVERED,customer9070@email.com,North
+2024-07-13,2308,Camera,Audio,3.0,,Pix,Cancelled,customer2308@email.com,North
+2024-05-20,-999,Headphones,Computers,1.0,130.39,Credit Card,Shipped,customer7150@email.com,South
+2024-01-14,1955,Mouse,Electronics,3.0,777.23, Pix ,Delivered,CUSTOMER1955@EMAIL.COM,Central
+2024-03-05,4687,Keyboard,,3.0,2249.97,Bank Transfer,SHIPPED ,customer4687@email.com,West
+2024-10-08,4638,Smartwatch,Photography,5.0,199.15,PayPal,Delivered,customer4638@email.com,north
+2024-06-27,6468,Smartwatch,,5.0,916.64,PayPal,Pending,customer6468@email.com,North
+2024-08-05,4719,Headphones,,2.0,828.81,Credit Card,Cancelled,customer4719@email.com,East
+2024-02-21,6779,Mouse,Accessories,3.0,2221.88,PayPal,Cancelled,customer6779 @ email.com,West
+2024-09-18,4174,Speaker,Accessories,5.0,2498.95,Bank Transfer,Pending,customer4174 @ email.com,East
+2024-03-02,3336,Speaker,,2.0,2480.11,PayPal,Pending,customer3336@email.com,Central
+2024-02-13,4241,Smartwatch,Accessories,5.0,922.18,,Shipped,customer4241@email.com,East
+2024-09-24,3204,Smartphone,Audio,5.0,1416.19,Bank Transfer,Delivered,customer3204@email.com,East
+2024-09-05,9567,Smartwatch,Computers,3.0,,Debit Card,Cancelled,customer9567@email.com,West
+2024-10-26,2525,Mouse,Accessories,2.0,1361.36,Bank Transfer,Pending,CUSTOMER2525@EMAIL.COM,East
+2024-04-18,9219,Keyboard,Computers,5.0,2315.62,Debit Card,Cancelled ,customer9219@email.com,North
+2024-10-07,7917,Camera,Electronics,2.0,2355.77,Credit Card,Cancelled,customer7917@email.com,South
+2024-01-10,4778,Monitor,Accessories,2.0,899.62,Credit Card,Pending,customer4778@email.com,South
+2024-01-25,2646,Camera,Photography,2.0,,Credit Card,Processing,customer2646@email.com,South
+2024-05-31,1224,Smartwatch,Accessories,4.0,173.86,Debit Card,Shipped,customer1224@email.com,North
+2024-03-14,6370,Headphones,Photography,,,Pix,Pending,customer6370@email.com,east
+2024-09-20,3635,Camera,Electronics,1.0,1306.91,Pix,Shipped,customer3635@email.com,South
+2024-04-01,6256,Smartwatch,Computers,3.0,,,Shipped,customer6256@email.com,Central
+2024-07-05,4600,Camera,Photography,1.0,,,Shipped,customer4600@email.com,Central
+2024-10-20,4714,Keyboard,,4.0,,Debit Card, Cancelled,CUSTOMER4714@EMAIL.COM,East
+2024-03-22,4155,Laptop,Audio,1.0,1636.46,Bank Transfer,Shipped,customer4155@email.com,North
+2024-09-07,4788,Tablet,Electronics,4.0,1877.06,Pix,Processing ,customer4788@email.com,south
+2024-10-11,1545,Camera,Photography,1.0,1877.87,Bank Transfer,Pending,customer1545@email.com,Central
+2024-06-20,3713,Keyboard,Audio,3.0,,Credit Card,Processing,customer3713@email.com,South
+2024-02-13,6343,Tablet,Audio,2.0,517.0,Debit Card,Cancelled,customer6343@email.com,South
+2024-08-16,1571,Laptop,Audio,5.0,461.82,Pix,Pending,CUSTOMER1571@EMAIL.COM,North
+2024-02-22,5757,Mouse,Computers,4.0,210.45,Bank Transfer,Shipped,customer5757@email.com,Central
+2024-02-22,9711,Mouse,Computers,2.0,1991.26,Pix, Delivered,customer9711@email.com,south
+2024-05-15,6346,Keyboard,Computers,3.0,1561.29,Credit Card,Processing,customer6346@email.com,South
+2024-02-20,5491,Camera,Electronics,Unknown,1128.51,Credit Card,Processing,customer5491@email.com,East
+2024-02-05,9623,Headphones,Accessories,4.0,757.97,PayPal,Cancelled,customer9623@email.com,North
+2024-04-18,8287,Monitor,Computers,2.0,2852.2,Debit Card,CANCELLED,customer8287@email.com,North
+2024-10-20,7233,Mouse,Photography,1.0,2551.39, Debit Card ,Delivered,customer7233@email.com,North
+2024-03-12,1117,Tablet,Audio,5.0,,Credit Card,Delivered,customer1117@email.com,East
+2024-05-03,7185,Tablet,Electronics,3.0,,PayPal,Processing,customer7185@email.com,North
+2024-08-17,5566,Monitor,Photography,5.0,2488.52,Bank Transfer,Pending,customer5566@email.com,West
+2024-08-07,9592,Speaker,Accessories,1.0,1897.65,PayPal,SHIPPED,customer9592@email.com,South
+2024-08-29,1988,Smartwatch,Computers,5.0,136.01,,Processing,customer1988@email.com,Central
+2024-08-10,2274,Smartwatch,,3.0,53.97,Debit Card,DELIVERED,customer2274@email.com,South
+2024-01-06,1956,Monitor,Electronics,,1165.4,Credit Card,Pending,customer1956@email.com,North
+2024-02-04,9436,Camera,Audio,3.0,,Debit Card,Delivered,customer9436@email.com,North
+2024-09-15,-999,Laptop,,5.0,1359.52,PayPal,Cancelled,CUSTOMER4676@EMAIL.COM,North
+2024-09-14,3983,Tablet,Photography,,1321.78,Credit Card,Pending,customer3983@email.com,East
+2024-07-04,3711,Speaker,Photography,1.0,2570.07,Debit Card,Processing,CUSTOMER3711@EMAIL.COM,North
+2024-03-09,8833,Smartwatch,Accessories,2.0,276.58,PayPal,Cancelled,customer8833@email.com,East
+2024-03-28,7469,Smartwatch,Photography,3.0,878.6,Credit Card,Cancelled,customer7469@email.com,West
+2024-05-07,5177,Keyboard,,2.0,387.57,Bank Transfer,Shipped,customer5177@email.com,Central
+2024-02-18,1009,Laptop,Electronics,1.0,2830.51,,Shipped,customer1009@email.com,east
+2024-08-20,9519,Headphones,,5.0,2659.52,PayPal,Pending,customer9519@email.com,East
+2024-05-22,2040,Camera,Accessories,4.0,275.88,PayPal,Shipped,customer2040@email.com,South
+2024-08-05,2560,Keyboard,Photography,3.0,315.25,Bank Transfer,Delivered,customer2560@email.com,West
+2024-10-25,3681,Speaker,Electronics,3.0,,Credit Card,Cancelled ,customer3681@email.com,South
+2024-06-25,8274,Smartphone,Audio,3.0,785.9,Bank Transfer,Processing,customer8274@email.com,west
+2024-04-12,3343,Headphones,Computers,5.0,2966.14,Debit Card,Processing,customer3343@email.com,Central
+2024-08-13,7276,Laptop,Photography,1.0,1439.3,Credit Card,Shipped,customer7276@email.com,West
+2024-05-07,6490,Laptop,Computers,4.0,1945.6,Debit Card,Delivered,customer6490 @ email.com,North
+2024-04-08,7612,Mouse,Electronics,,-1678.04,Credit Card,PROCESSING,customer7612@email.com,East
+2024-08-03,6373,Keyboard,Computers,4.0,,Bank Transfer,PENDING,CUSTOMER6373@EMAIL.COM,South
+2024-06-08,5278,Tablet,Accessories,1.0,308.27,Debit Card,Shipped,customer5278@email.com,North
+2024-09-06,8099,Tablet,Computers,Unknown,1006.82,Credit Card,Delivered,customer8099@email.com,East
+2024-01-26,8057,Headphones,Electronics,4.0,,Debit Card,Pending,customer8057@email.com,North
+2024-07-06,9996,Speaker,Computers,2.0,1123.24,PayPal, Cancelled,customer9996@email.com,South
+2024-07-02,5243,Monitor,,Unknown,,Bank Transfer,Processing,customer5243@email.com,Central
+2024-05-12,9032,Speaker,,1.0,1054.61,PayPal,CANCELLED,customer9032@email.com,South
+2024-04-02,6383,Tablet,Photography,2.0,1124.13,PayPal,Cancelled,customer6383 @ email.com,South
+2024-06-20,9393,Speaker,Audio,1.0,,Bank Transfer,Processing,customer9393@email.com,East
+2024-01-09,5018,Smartwatch,Computers,1.0,1695.89,Credit Card,Shipped,customer5018@email.com,south
+2024-07-05,4564,Smartwatch,Audio,2.0,1414.05,Credit Card,Cancelled,customer4564@email.com,West
+2024-01-29,3745,Headphones,Electronics,3.0,2692.31,Pix,Processing ,customer3745@email.com,South
+2024-04-08,8368,Mouse,Electronics,3.0,564.02,PayPal,Delivered,customer8368@email.com,West
+2024-08-04,3190,Laptop,Electronics,4.0,1786.09,Pix,Pending,customer3190@email.com,North
+2024-07-20,3604,Monitor,Accessories,3.0,143.75,Credit Card,DELIVERED,customer3604@email.com,North
+2024-10-06,7704,Smartwatch,Computers,2.0,1386.09,Bank Transfer,Cancelled ,customer7704@email.com,west
+2024-01-17,4186,Headphones,,5.0,510.14,,Processing,customer4186@email.com,East
+2024-08-04,2312,Mouse,Audio,1.0,2597.22,Pix,Pending,customer2312@email.com,Central
+2024-04-21,9356,Camera,Audio,3.0,952.85,Credit Card,Shipped,customer9356@email.com,Central
+2024-07-19,1419,Headphones,Audio,4.0,2486.46,Credit Card,Pending,customer1419@email.com,West
+2024-06-18,1021,Keyboard,Accessories,2.0,1563.89,Pix,Pending,customer1021@email.com,South
+2024-08-18,1345,Camera,Accessories,4.0,328.27, Pix ,Cancelled,customer1345@email.com,South
+2024-07-05,8147,Speaker,Electronics,1.0,2413.98,Credit Card, Cancelled,customer8147 @ email.com,East
+2024-08-22,4041,Monitor,Accessories,4.0,,Credit Card,Pending,customer4041@email.com,South
+2024-09-12,8184,Speaker,Computers,4.0,2009.4,Debit Card,Delivered,customer8184@email.com,West
+2024-06-01,6005,Speaker,Electronics,1.0,2378.76,,Cancelled,customer6005@email.com,South
+2024-04-12,9195,Laptop,Computers,1.0,,Debit Card,Shipped,customer9195@email.com,Central
+2024-08-02,2333,Smartphone,Electronics,1.0,438.38, Debit Card ,Cancelled,customer2333@email.com,East
+2024-09-06,4294,Headphones,Electronics,1.0,2770.98,PayPal, Processing,customer4294@email.com,Central
+2024-02-17,8979,Camera,Electronics,5.0,2196.21,PayPal,Delivered,customer8979@email.com,South
+2024-04-08,2913,Mouse,Electronics,5.0,1831.2,Bank Transfer,Shipped,customer2913@email.com,Central
+2024-08-20,6877,Tablet,Accessories,4.0,2632.45,Bank Transfer,Delivered,customer6877@email.com,East
+2024-09-15,1116,Camera,Accessories,2.0,2578.72,Bank Transfer,PROCESSING,customer1116@email.com,East
+2024-08-09,1814,Laptop,Audio,5.0,,Debit Card,Pending,customer1814@email.com,Central
+2024-04-29,4675,Speaker,Computers,1.0,2825.28, PayPal ,Pending,customer4675@email.com,Central
+2024-07-10,9707,Speaker,Electronics,5.0,2823.54,Debit Card,Shipped,customer9707@email.com,West
+2024-09-20,2771,Mouse,Accessories,3.0,1651910.0,Pix,Processing,customer2771@email.com,East
+2024-06-25,5388,Tablet,Electronics,2.0,,Credit Card,Shipped,customer5388@email.com,West
+2024-06-06,5033,Tablet,Electronics,3.0,,Pix,Pending,customer5033@email.com,North
+2024-05-22,8679,Laptop,Electronics,5.0,2800.35,Bank Transfer,Delivered,customer8679@email.com,East
+2024-09-16,8725,Mouse,,4.0,,Debit Card,Shipped ,customer8725@email.com,South
+2024-04-30,3872,Monitor,Audio,2.0,441.3,Pix,Delivered,customer3872@email.com,North
+2024-07-15,6658,Speaker,Audio,,690.02,Pix,Delivered,customer6658@email.com,West
+2024-03-10,3383,Camera,Audio,3.0,2379.0,Bank Transfer,Shipped,customer3383@email.com,North
+2024-04-28,4591,Camera,Photography,1.0,361.5,Credit Card,DELIVERED,customer4591@email.com,Central
+2024-03-05,6626,Headphones,Computers,1.0,2144.84,Pix,Shipped ,customer6626@email.com,South
+2024-03-29,2750,Camera,,5.0,,PayPal, Shipped,customer2750@email.com,North
+2024-02-04,5223,Laptop,Audio,2.0,2496.48,PayPal,Processing,customer5223@email.com,South
+2024-05-24,8266,Camera,Audio,3.0,188.02,Debit Card,Processing,customer8266@email.com,North
+2024-06-24,5225,Smartwatch,Electronics,4.0,1277.63,Pix,Pending,customer5225@email.com,South
+2024-09-03,2386,Laptop,Photography,2.0,2675.16,Credit Card,Shipped,customer2386@email.com,North
+2024-01-05,7446,Monitor,Computers,5.0,511.04,PayPal,Shipped,customer7446 @ email.com,South
+2024-03-21,6415,Speaker,Accessories,4.0,1083.1,,Delivered,customer6415@email.com,West
+2024-05-26,5203,Headphones,Computers,3.0,207.87,PayPal,Processing,customer5203@email.com,North
+2024-09-28,3421,Smartwatch,Photography,1.0,1158.62,Pix,Shipped,customer3421@email.com,East
+2024-05-27,3719,Keyboard,Accessories,2.0,456.76, PayPal ,Shipped,customer3719@email.com,South
+2024-08-13,8083,Camera,,3.0,551.84,PayPal,PROCESSING,customer8083@email.com,East
+2024-05-03,3079,Mouse,Electronics,3.0,1391.87,Pix,Processing,customer3079@email.com,Central
+2024-07-02,3056,Mouse,Photography,???,2842.93,Pix,PENDING,customer3056@email.com,South
+2024-07-13,1552,Tablet,Electronics,5.0,781.23,PayPal,Cancelled,customer1552@email.com,North
+2024-07-25,4756,Headphones,Audio,1.0,2481.76,Bank Transfer,Shipped,customer4756@email.com,Central
+2024-08-02,1600,Tablet,Accessories,1.0,1327.83,Bank Transfer,Cancelled,customer1600@email.com,West
+2024-03-25,1959,Keyboard,Photography,1.0,2315.98,Bank Transfer,Cancelled,customer1959@email.com,Central
+2024-05-30,3632,Tablet,Audio,4.0,1057.2,Debit Card, Shipped,customer3632 @ email.com,West
+2024-04-10,7371,Keyboard,Photography,4.0,2256.12,Pix,Cancelled,customer7371@email.com,East
+2024-05-01,2290,Headphones,Computers,4.0,1200.85,PayPal,Processing,customer2290@email.com,North
+2024-01-03,5703,Speaker,Computers,1.0,1045.07,Bank Transfer,Pending,CUSTOMER5703@EMAIL.COM,Central
+2024-04-28,5179,Headphones,Computers,4.0,699.26,Credit Card,Cancelled,customer5179@email.com,South
+2024-08-03,6373,Keyboard,Computers,4.0,,Bank Transfer,PENDING,CUSTOMER6373@EMAIL.COM,South
+2024-08-05,6588,Mouse,Electronics,,2924.03,PayPal,Cancelled ,customer6588 @ email.com,South
+2024-04-13,8643,Monitor,Computers,,2409.17,Debit Card,Shipped,customer8643@email.com,Central
+2024-10-14,1526,Camera,Photography,4.0,684.85,Bank Transfer,Delivered ,customer1526@email.com,east
+2024-09-09,9946,Mouse,Accessories,5.0,2736.87,Pix,Delivered,customer9946@email.com,West
+2024-09-03,4568,Smartwatch,Electronics,4.0,,Credit Card, Pending,customer4568@email.com,Central
+2024-05-16,7514,Smartphone,Audio,4.0,,Pix,Delivered,customer7514@email.com,West
+2024-06-08,4531,Tablet,Audio,4.0,2804.03,PayPal,Pending,customer4531@email.com,East
+2024-03-15,6420,Headphones,Audio,2.0,1321.4,PayPal,Delivered,customer6420@email.com,West
+2024-08-26,3356,Headphones,Accessories,1.0,2005.25,PayPal,Delivered,customer3356@email.com,South
+2024-05-02,4701,Monitor,Accessories,3.0,652.29,Credit Card,Shipped,customer4701@email.com,Central
+2024-05-30,9508,Smartphone,Accessories,1.0,1289.01,Debit Card,Cancelled,customer9508@email.com,North
+2024-04-15,9007,Laptop,Audio,4.0,,Bank Transfer,Pending,customer9007@email.com,North
+2024-05-30,8312,Speaker,Photography,,,Bank Transfer,Cancelled,customer8312 @ email.com,north
+2024-08-10,2274,Smartwatch,,3.0,53.97,Debit Card,DELIVERED,customer2274@email.com,South
+2024-02-26,8906,Monitor,Photography,2.0,394.92,Bank Transfer,Pending,customer8906@email.com,east
+2024-08-02,2333,Smartphone,Electronics,1.0,438.38, Debit Card ,Cancelled,customer2333@email.com,East
+2024-04-01,8009,Laptop,Computers,1.0,1685.3,Pix,PENDING,customer8009@email.com,Central
+2024-01-25,4155,Monitor,Electronics,2.0,2296.94,Pix,PENDING,customer4155@email.com,Central
+2024-08-12,2645,Tablet,,N/A,2133.17,PayPal,Pending,customer2645@email.com,North
+2024-08-24,6604,Keyboard,Accessories,5.0,2808.76,Bank Transfer,Delivered,customer6604@email.com,Central
+2024-07-08,4417,Smartwatch,Computers,2.0,,Pix,Cancelled,customer4417@email.com,North
+2024-04-09,4042,Smartwatch,Computers,1.0,639.53,Debit Card,Cancelled,customer4042@email.com,North
+2024-10-12,6619,Headphones,,1.0,2341.57,PayPal,Cancelled,customer6619@email.com,Central
+2024-10-14,9378,Keyboard,Photography,5.0,874.28,Bank Transfer,Shipped,CUSTOMER9378@EMAIL.COM,South
+2024-01-22,7988,Monitor,Accessories,3.0,1564.44,Bank Transfer,Cancelled,customer7988@email.com,West
+2024-02-23,6299,Camera,Electronics,,1119.17,PayPal,Cancelled ,customer6299@email.com,East
+2024-09-29,7732,Monitor,Computers,,,Credit Card,Cancelled,customer7732@email.com,North
+2024-01-13,5788,Smartphone,Accessories,3.0,1554.94,Bank Transfer,Cancelled,customer5788@email.com,east
+2024-02-08,8686,Keyboard,Audio,5.0,685.73,Credit Card,SHIPPED,customer8686@email.com,West
+2024-04-20,5356,Keyboard,,5.0,1367.0,Pix,Shipped,customer5356@email.com,East
+2024-05-10,5208,Smartphone,Electronics,4.0,1463.82,PayPal,Processing,customer5208@email.com,East
+2024-01-04,8138,Monitor,Audio,,2785.7,Credit Card,Shipped,customer8138@email.com,South
+2024-01-16,3667,Smartphone,Computers,3.0,1129.36,PayPal,Pending,customer3667@email.com,East
+2024-10-25,3681,Speaker,Electronics,3.0,,Credit Card,Cancelled ,customer3681@email.com,South
+2024-02-27,7667,Tablet,Computers,3.0,638.54,Pix, Delivered,customer7667@email.com,East
+2024-07-06,3219,Monitor,Accessories,5.0,256.51,Credit Card,Pending,customer3219@email.com,West
+2024-04-14,2607,Smartphone,Electronics,2.0,319.55,Credit Card,Processing,customer2607@email.com,west
+2024-01-02,5971,Monitor,Computers,3.0,-1536.81,PayPal,Shipped,customer5971@email.com,North
+2024-01-14,1235,Smartphone,Audio,1.0,1914.37,Pix,Shipped,customer1235@email.com,west
+2024-05-05,7320,Camera,Accessories,2.0,2778.89,Credit Card,Shipped,customer7320@email.com,South
+2024-10-15,5242,Keyboard,Electronics,5.0,1343.45,Credit Card,Pending,customer5242@email.com,Central
+2024-04-23,5263,Keyboard,Audio,3.0,,Bank Transfer,Shipped,customer5263@email.com,East
+2024-05-01,9442,Speaker,Photography,5.0,232.56,PayPal,Shipped,customer9442@email.com,South
+2024-02-02,7640,Laptop,Electronics,,1030.01,Debit Card,Pending,customer7640@email.com,East
+2024-01-04,4178,Monitor,Computers,3.0,229.97,Pix,Processing,customer4178@email.com,West
+2024-06-20,3573,Laptop,Electronics,4.0,1461.56,Bank Transfer, Cancelled,customer3573@email.com,East
+2024-07-24,2796,Smartphone,Electronics,5.0,931.63,Debit Card,Pending,CUSTOMER2796@EMAIL.COM,South
+2024-02-20,6655,Camera,Computers,3.0,786.03,Bank Transfer, Shipped,customer6655@email.com,West
+2024-05-31,4507,Mouse,Accessories,1.0,2044.57,Debit Card,Pending,customer4507@email.com,East
+2024-08-30,5451,Camera,Audio,,2039.06,PayPal, Delivered,customer5451@email.com,east
+2024-04-05,9896,Smartphone,Computers,1.0,2144.89,PayPal,Shipped,customer9896@email.com,West
+2024-08-27,3844,Laptop,Electronics,3.0,,,Delivered,customer3844@email.com,East
+2024-07-14,6136,Monitor,Electronics,N/A,124.45,,Cancelled,customer6136@email.com,Central
+2024-08-02,1271,Camera,Photography,4.0,1394.08,PayPal,Processing,customer1271@email.com,South
+2024-09-09,6475,Tablet,Photography,,1664.35,Bank Transfer,Shipped,customer6475@email.com,South
+2024-08-28,3116,Smartwatch,Photography,3.0,1566890.0,Bank Transfer,Pending ,customer3116@email.com,North
+2024-06-13,2591,Speaker,Photography,5.0,,Credit Card,Cancelled,customer2591@email.com,East
+2024-08-11,4572,Camera,Audio,3.0,,PayPal,Delivered,customer4572@email.com,East
+2024-05-08,6136,Keyboard,Computers,1.0,1849.33,Debit Card,Pending,customer6136@email.com,Central
+2024-06-15,7924,Smartphone,Electronics,5.0,1299.47,Credit Card,Cancelled,customer7924@email.com,South
+2024-09-26,8577,Monitor,,2.0,811.78, Credit Card ,Processing,customer8577@email.com,West
+2024-03-07,4814,Camera,Photography,5.0,1931.81,Credit Card,Cancelled,customer4814@email.com,South
+2024-04-08,8221,Speaker,Computers,2.0,419.4,Bank Transfer,Shipped ,customer8221@email.com,south
+2024-02-03,5109,Camera,Audio,3.0,815.2,Credit Card,Processing,customer5109@email.com,East
+2024-10-06,3541,Keyboard,,3.0,2953.49,Credit Card,Shipped,customer3541@email.com,South
+2024-10-03,2917,Smartwatch,Accessories,,,Credit Card,SHIPPED,customer2917@email.com,North
+2024-03-26,4876,Laptop,Accessories,2.0,66.87,Bank Transfer,Cancelled,customer4876@email.com,West
+2024-02-20,5150,Headphones,Computers,1.0,2571.38,,Cancelled,customer5150@email.com,North
+2024-02-07,2409,Smartwatch,Electronics,2.0,110.54,Debit Card,Shipped,customer2409@email.com,Central
+2024-09-09,2823,Tablet,Accessories,,1618.4,Credit Card,Processing ,customer2823@email.com,Central
+2024-03-16,1936,Monitor,Computers,2.0,1102.47,Pix,Shipped,customer1936@email.com,south
+2024-04-08,6179,Tablet,Audio,2.0,978.74, PayPal ,Processing,customer6179@email.com,South
+2024-04-09,1824,Keyboard,,,2165.51,PayPal,Shipped,customer1824@email.com,West
+2024-05-31,3734,Smartwatch,Electronics,4.0,325.15,Bank Transfer,Pending,customer3734@email.com,Central
+2024-07-16,2759,Laptop,Photography,2.0,228.78,PayPal, PENDING,customer2759@email.com,South
+2024-04-05,7166,Monitor,Audio,5.0,1337.44,,SHIPPED,customer7166@email.com,East
+2024-05-05,3469,Laptop,Computers,,475.71,Debit Card,Pending,customer3469@email.com,south
+2024-07-25,7078,Smartwatch,Electronics,2.0,2215.02,,Delivered,customer7078@email.com,Central
+2024-01-19,5286,Keyboard,Photography,3.0,2357.05,Debit Card,Pending,customer5286@email.com,Central
+2024-10-19,3243,Smartwatch,Computers,,2341.53,PayPal,Delivered,customer3243@email.com,East
+2024-06-08,-999,Monitor,Audio,3.0,255.91,PayPal,Delivered,customer1966@email.com,West
+2024-05-06,9646,Camera,Audio,3.0,2076.77,Debit Card,CANCELLED,customer9646@email.com,South
+2024-02-03,4224,Smartphone,Audio,1.0,2658.85,Pix,Processing,customer4224@email.com,Central
+2024-09-07,5116,Smartphone,Electronics,1.0,2726.38,Credit Card,Processing,CUSTOMER5116@EMAIL.COM,Central
+2024-09-23,4056,Monitor,Computers,5.0,973.5,Pix,CANCELLED,CUSTOMER4056@EMAIL.COM,East
+2024-08-27,9619,Laptop,Accessories,3.0,,Pix,Pending,customer9619@email.com,North
+2024-05-26,1277,Keyboard,Electronics,1.0,2355.44,PayPal,Pending,customer1277@email.com,north
+2024-02-20,3430,Smartphone,Computers,5.0,1629.34,PayPal,Pending,customer3430@email.com,South
+2024-07-24,3560,Smartphone,Audio,2.0,1587.17,,Cancelled,customer3560@email.com,South
+2024-07-10,8904,Keyboard,,,1659.47,Pix,Shipped,customer8904@email.com,South
+2024-08-20,8970,Monitor,Computers,2.0,1729.98,Debit Card,DELIVERED,customer8970@email.com,South
+2024-06-13,9782,Smartwatch,Computers,1.0,73.77,Debit Card,Pending,customer9782@email.com,East
+2024-08-07,2990,Speaker,Computers,1.0,2506.85,Debit Card,Pending,customer2990@email.com,Central
+2024-07-10,2828,Tablet,Photography,,1659.48, Debit Card ,Cancelled,customer2828@email.com,West
+2024-01-05,3162,Tablet,Electronics,Unknown,717.51,Pix,Shipped,customer3162@email.com,South
+2024-01-02,-999,Mouse,Audio,1.0,2287.58,Debit Card,Shipped,customer6951@email.com,west
+2024-08-16,2925,Speaker,Photography,1.0,2309.2,Debit Card,Pending,customer2925@email.com,east
+2024-05-24,4930,Headphones,Computers,3.0,1869.98,Debit Card,Shipped,customer4930@email.com,central
+2024-04-20,2895,Headphones,Photography,4.0,,PayPal,Shipped,customer2895@email.com,South
+2024-02-22,3466,Smartwatch,Electronics,2.0,2476.36, PayPal ,Shipped,customer3466@email.com,Central
+2024-04-08,9633,Keyboard,,4.0,881.66,Bank Transfer,Cancelled,customer9633@email.com,Central
+2024-07-31,6445,Mouse,Photography,4.0,,Credit Card,Pending,CUSTOMER6445@EMAIL.COM,West
+2024-05-10,7722,Headphones,Audio,3.0,2089.07,Credit Card,Shipped,customer7722@email.com,Central
+2024-09-27,8041,Laptop,Electronics,4.0,2201.24,,Shipped,CUSTOMER8041@EMAIL.COM,West
+2024-09-03,9783,Tablet,Computers,1.0,1354.64,Credit Card,Cancelled,customer9783@email.com,West
+2024-07-14,4430,Smartwatch,,4.0,469.65,Debit Card,Delivered,customer4430@email.com,North
+2024-10-16,2341,Camera,Audio,1.0,2328.92,,Pending,customer2341@email.com,North
+2024-06-09,4054,Keyboard,Audio,1.0,2338.94,Pix,Pending,customer4054@email.com,West
+2024-03-29,2604,Smartwatch,Audio,3.0,1151.06,Debit Card,Shipped,customer2604@email.com,East
+2024-05-16,7116,Mouse,Audio,,2893.28,PayPal,Shipped,customer7116@email.com,North
+2024-03-09,6319,Smartwatch,Photography,,2039.48,PayPal,DELIVERED,customer6319@email.com,South
+2024-08-20,3265,Smartphone,Computers,3.0,2575.59,Bank Transfer,Pending,customer3265@email.com,Central
+2024-08-30,3203,Laptop,Photography,1.0,,Pix,Processing,customer3203@email.com,East
+2024-01-22,9601,Camera,Accessories,2.0,623.62,PayPal,Pending,customer9601@email.com,North
+2024-03-03,1791,Mouse,Audio,3.0,198.13,Bank Transfer,Processing,customer1791@email.com,east
+2024-07-19,9914,Speaker,Audio,1.0,1388.06,Credit Card,Delivered,customer9914@email.com,North
+2024-01-04,4178,Monitor,Computers,3.0,229.97,Pix,Processing,customer4178@email.com,West
+2024-09-05,9941,Keyboard,Computers,2.0,,PayPal,Pending,customer9941@email.com,Central
+2024-01-07,9228,Monitor,Photography,2.0,294.07,PayPal,Processing,customer9228@email.com,West
+2024-02-09,2742,Headphones,Photography,,2834.59,Pix,CANCELLED,customer2742@email.com,East
+2024-07-02,3056,Mouse,Photography,???,2842.93,Pix,PENDING,customer3056@email.com,South
+2024-01-31,2390,Smartwatch,Accessories,1.0,,Credit Card,Delivered,customer2390 @ email.com,Central
+2024-10-21,9577,Tablet,Accessories,4.0,1917.56,Bank Transfer, Processing,customer9577@email.com,north
+2024-02-04,8027,Smartwatch,,1.0,2262.58,Pix,Pending,customer8027@email.com,South
+2024-08-21,8112,Keyboard,Photography,4.0,1933.05,PayPal,Processing,customer8112@email.com,South
+2024-05-01,9476,Speaker,Computers,2.0,,Bank Transfer,Pending,customer9476@email.com,West
+2024-02-15,2098,Laptop,Computers,4.0,1360.14,Bank Transfer,Delivered,customer2098@email.com,North
+2024-06-21,5473,Mouse,Computers,1.0,1665.04,Credit Card,Shipped,customer5473 @ email.com,central
+2024-03-03,7898,Keyboard,Photography,3.0,1315.51,Debit Card,Processing,customer7898@email.com,West
+2024-05-31,8218,Mouse,Photography,2.0,1828.97,PayPal,Shipped,customer8218@email.com,North
+2024-01-28,6126,Smartwatch,Photography,5.0,2095.34,Pix,Shipped,customer6126@email.com,North
+2024-01-05,4228,Smartphone,Photography,3.0,1418.77, PayPal ,Shipped,customer4228@email.com,East
+2024-06-16,9502,Camera,Electronics,1.0,,,Delivered,customer9502@email.com,East
+2024-09-24,8564,Headphones,Computers,1.0,1929.43,Credit Card, SHIPPED,customer8564 @ email.com,East
+2024-05-22,3443,Mouse,Computers,3.0,2447.51,Credit Card,Shipped,customer3443@email.com,East
+2024-08-05,5820,Mouse,Photography,2.0,2004.33,Bank Transfer,Delivered,customer5820@email.com,east
+2024-08-12,3708,Mouse,Accessories,3.0,254.52,PayPal,Shipped,customer3708@email.com,East
+2024-09-06,1614,Smartphone,,4.0,671.81,Bank Transfer,Processing,customer1614@email.com,Central
+2024-02-11,1629,Tablet,Photography,2.0,,Pix,Pending,customer1629@email.com,East
+2024-05-30,6797,Laptop,Accessories,2.0,1802.54,Pix,Shipped,CUSTOMER6797@EMAIL.COM,West
+2024-02-20,3430,Smartphone,Computers,5.0,1629.34,PayPal,Pending,customer3430@email.com,South
+2024-04-21,5167,Tablet,Photography,2.0,1390.49,Debit Card,Processing,customer5167@email.com,East
+2024-08-02,7316,Camera,Accessories,2.0,95.75,Pix,Cancelled,customer7316@email.com,east
+2024-05-17,7368,Tablet,Photography,5.0,204.55,PayPal,Shipped,customer7368@email.com,Central
+2024-09-30,8984,Laptop,Photography,1.0,2534.86,Credit Card, Shipped,customer8984@email.com,South
+2024-07-08,5494,Speaker,,5.0,1373.9,Pix,Delivered,customer5494@email.com,North
+2024-08-25,4594,Laptop,Electronics,1.0,1910.21,Bank Transfer,Cancelled,customer4594@email.com,West
+2024-09-29,4028,Laptop,Accessories,,395.18,Credit Card,Cancelled,customer4028@email.com,Central
+2024-06-14,4117,Mouse,Computers,4.0,,Credit Card,Delivered,customer4117@email.com,Central
+2024-03-30,9954,Smartphone,Accessories,2.0,755.47,Debit Card,Cancelled,customer9954@email.com,East
+2024-02-16,4427,Tablet,Accessories,1.0,897.61,Pix,Pending,customer4427 @ email.com,South
+2024-08-15,6543,Tablet,Electronics,,1875.38,Credit Card,PENDING,customer6543@email.com,South
+2024-10-03,6986,Mouse,Photography,1.0,2699.8,Pix,Delivered,customer6986@email.com,North
+2024-10-06,1645,Smartphone,Audio,1.0,1592.14,Pix,Pending,customer1645@email.com,North
+2024-06-26,9230,Camera,Computers,5.0,1284820.0,PayPal,Pending,customer9230@email.com,North
+2024-06-13,6031,Tablet,Audio,5.0,1202.25,Pix,Pending ,customer6031@email.com,East
+2024-07-10,3043,Smartwatch,Electronics,3.0,634.38,PayPal,Processing,customer3043@email.com,north
+2024-08-01,1158,Smartphone,Photography,3.0,420.42,Pix,Delivered,customer1158@email.com,North
+2024-09-08,2435,Monitor,Computers,1.0,588.88,Credit Card,Pending,customer2435@email.com,North
+2024-07-04,2933,Speaker,Audio,,1915.1,Credit Card,Shipped,customer2933@email.com,West
+2024-09-15,5021,Laptop,Accessories,3.0,-2818.32,Bank Transfer,Shipped,customer5021@email.com,south
+2024-08-20,2854,Tablet,Photography,5.0,65.77,Credit Card,Pending,CUSTOMER2854@EMAIL.COM,West
+2024-08-26,4598,Keyboard,Computers,2.0,2907590.0,Debit Card,Cancelled,customer4598@email.com,south
+2024-08-20,4216,Mouse,Photography,1.0,2956.26,PayPal,Cancelled,customer4216@email.com,North
+2024-01-23,7737,Speaker,Photography,1.0,607.96,Debit Card,Pending,customer7737@email.com,North
+2024-06-06,2252,Smartwatch,Computers,1.0,1820.83,Bank Transfer,PROCESSING,customer2252@email.com,North
+2024-03-24,8827,Camera,Photography,3.0,2827.52,Bank Transfer,Pending,customer8827@email.com,Central
+2024-03-03,5853,Mouse,Audio,4.0,1497.76,Bank Transfer, Cancelled,customer5853@email.com,Central
+2024-09-11,9533,Smartphone,Electronics,5.0,174.91,Bank Transfer,Shipped,CUSTOMER9533@EMAIL.COM,South
+2024-01-13,1827,Smartwatch,Electronics,4.0,,Pix, Delivered,customer1827@email.com,West
+2024-10-15,8115,Tablet,Electronics,1.0,625.28,Debit Card,Cancelled,customer8115@email.com,North
+2024-10-09,4030,Headphones,Audio,5.0,961.42,Pix,Processing,customer4030@email.com,south
+2024-07-16,8029,Smartwatch,Electronics,3.0,2384.82,Debit Card,Processing,customer8029@email.com,West
+2024-09-15,5524,Laptop,Computers,2.0,2735.13,Pix,Delivered,customer5524@email.com,central
+2024-02-06,2301,Smartwatch,Electronics,2.0,1353.15,Pix,Delivered,customer2301@email.com,East
+2024-08-10,9041,Smartwatch,Computers,5.0,,Credit Card,Cancelled,customer9041@email.com,West
+2024-10-16,5497,Keyboard,Computers,1.0,213.8,Bank Transfer,Delivered,customer5497@email.com,East
+2024-02-05,8790,Laptop,Computers,1.0,2488.62,Bank Transfer, PENDING,customer8790 @ email.com,Central
+2024-07-21,1688,Mouse,Computers,1.0,2440.26,Pix,Delivered,customer1688@email.com,East
+2024-07-17,1768,Speaker,Electronics,2.0,,Credit Card,Pending,customer1768@email.com,West
+2024-04-23,5435,Smartphone,Accessories,2.0,973.83,Debit Card,Processing,customer5435@email.com,Central
+2024-10-03,4695,Monitor,Computers,4.0,1613.15,Credit Card,Processing,customer4695@email.com,South
+2024-06-11,8694,Speaker,Accessories,4.0,912.92,Bank Transfer,Shipped ,customer8694@email.com,south
+2024-02-25,8005,Tablet,Electronics,1.0,1252.76,PayPal,Processing,customer8005@email.com,east
+2024-03-06,1126,Speaker,Photography,1.0,1734.93,Pix,Pending,customer1126@email.com,central
+2024-08-10,4561,Speaker,Accessories,2.0,1971.97,Credit Card,Shipped,customer4561@email.com,West
+2024-04-16,1306,Camera,Computers,5.0,2289.31,Credit Card,SHIPPED,customer1306@email.com,East
+2024-04-27,7644,Speaker,Accessories,5.0,672.11, Bank Transfer ,Delivered,customer7644@email.com,North
+2024-04-04,7052,Keyboard,Audio,2.0,899.1,Pix,Delivered,customer7052@email.com,South
+2024-06-08,1832,Keyboard,,4.0,1157.55,Bank Transfer,Pending,customer1832@email.com,south
+2024-02-08,7477,Monitor,Audio,3.0,1628.7, Bank Transfer ,Delivered,customer7477@email.com,South
+2024-03-18,7059,Tablet,Accessories,1.0,1526.41,Pix,CANCELLED,customer7059@email.com,West
+2024-03-26,5648,Smartwatch,,1.0,2969.78,Credit Card,PROCESSING,customer5648@email.com,South
+2024-06-08,4911,Speaker,Photography,4.0,1720.33,Debit Card,Processing,customer4911@email.com,North
+2024-04-04,2875,Keyboard,Accessories,5.0,1700.25,Pix,Processing,customer2875@email.com,West
+2024-04-03,4157,Smartwatch,Audio,3.0,2788.73,Pix,Cancelled,customer4157@email.com,South
+2024-02-05,1619,Mouse,Audio,1.0,,Credit Card,Cancelled,customer1619@email.com,North
+2024-05-01,1317,Mouse,Accessories,2.0,321.9,PayPal,Shipped,customer1317@email.com,North
+2024-01-04,9173,Speaker,Computers,1.0,340.82,,Processing,customer9173@email.com,East
+2024-02-12,1105,Laptop,Accessories,3.0,869.27,,Processing,customer1105@email.com,Central
+2024-10-03,2165,Laptop,Accessories,5.0,2975.5,Pix, Delivered,customer2165@email.com,West
+2024-05-25,1954,Monitor,Computers,1.0,,Credit Card,Pending,customer1954@email.com,South
+2024-08-18,1793,Headphones,Photography,5.0,643.14,PayPal, Cancelled,customer1793@email.com,South
+2024-04-22,6207,Monitor,Computers,,1334.41,Credit Card,Delivered,customer6207@email.com,West
+2024-02-25,5790,Smartphone,Accessories,1.0,2618.37,Bank Transfer, Pending,customer5790@email.com,East
+2024-10-09,7635,Smartphone,Audio,1.0,,Pix,Pending,customer7635@email.com,North
+2024-07-10,9901,Monitor,Computers,1.0,,PayPal,Delivered,customer9901 @ email.com,south
+2024-04-13,3538,Headphones,Audio,4.0,1218.09,Debit Card,Delivered,customer3538@email.com,Central
+2024-03-06,7154,Camera,Photography,4.0,1405.97,Debit Card,Shipped,customer7154@email.com,Central
+2024-05-21,6415,Smartwatch,Electronics,4.0,2912.19,Debit Card,Pending,customer6415@email.com,South
+2024-09-03,1130,Speaker,Computers,3.0,2260.81,PayPal,Cancelled,customer1130 @ email.com,West
+2024-01-07,2712,Speaker,Computers,,1067.21,Bank Transfer,Processing,customer2712@email.com,West
+2024-05-06,4004,Laptop,Audio,2.0,2836.76,PayPal,SHIPPED,customer4004@email.com,West
+2024-09-20,2555,Monitor,Audio,4.0,1093.41,Debit Card,Shipped,customer2555@email.com,North
+2024-07-23,3946,Mouse,Accessories,1.0,859.43,Bank Transfer,DELIVERED,CUSTOMER3946@EMAIL.COM,East
+2024-03-12,2763,Laptop,Electronics,1.0,2494.04,Debit Card,Processing,customer2763@email.com,South
+2024-04-04,7809,Mouse,Audio,5.0,2159.8, Credit Card ,Pending,customer7809@email.com,West
+2024-09-03,6387,Tablet,Audio,1.0,184.08,Bank Transfer, Processing,customer6387 @ email.com,North
+2024-03-09,6913,Headphones,Photography,1.0,871.49,Credit Card,Pending,customer6913@email.com,South
+2024-07-26,4300,Laptop,Audio,1.0,-687.87,Pix,DELIVERED,customer4300@email.com,South
+2024-08-16,6895,Monitor,Accessories,3.0,1502.09,Debit Card,Processing,customer6895@email.com,central
+2024-02-22,8014,Tablet,Accessories,2.0,2847.34,,Delivered,customer8014@email.com,South
+2024-10-10,4845,Keyboard,Electronics,1.0,920.46,,Cancelled,customer4845@email.com,North
+2024-04-15,8970,Keyboard,Photography,,1889.26,Bank Transfer,Pending,customer8970@email.com,north
+2024-05-20,9987,Smartwatch,Audio,1.0,2350.97,Debit Card,Processing ,customer9987@email.com,Central
+2024-09-24,3433,Monitor,Electronics,,2470.26,Credit Card,Delivered,customer3433@email.com,Central
+2024-03-30,4511,Smartwatch,Computers,3.0,2050.44,Debit Card,Shipped,customer4511@email.com,South
+2024-03-08,9321,Mouse,Accessories,5.0,1545.89,Pix,PENDING,customer9321@email.com,East
+2024-09-30,5732,Monitor,Audio,3.0,,PayPal,Delivered,customer5732@email.com,Central
+2024-07-20,2050,Speaker,Computers,3.0,2832.37,Pix,Shipped,customer2050@email.com,South
+2024-08-03,4453,Tablet,Audio,2.0,1045.72,Bank Transfer,Shipped,CUSTOMER4453@EMAIL.COM,East
+2024-09-11,9465,Tablet,Electronics,,2351.56,Bank Transfer,Shipped,customer9465@email.com,East
+2024-10-03,1458,Laptop,Electronics,,1719.91,Pix, SHIPPED,customer1458@email.com,West
+2024-02-16,2887,Mouse,Audio,4.0,,Credit Card,Pending,customer2887@email.com,West
+2024-02-10,8813,Monitor,Audio,,732.87,Credit Card,Shipped ,customer8813@email.com,South
+2024-02-10,6408,Laptop,Accessories,,2257.29,Credit Card,Shipped,customer6408@email.com,West
+2024-06-17,5425,Smartphone,Computers,,212.91,Debit Card,Pending,customer5425@email.com,Central
+2024-04-22,1536,Mouse,Accessories,4.0,,Pix,Processing,customer1536@email.com,Central
+2024-03-31,1362,Monitor,Photography,2.0,2391.03,Bank Transfer,Cancelled,CUSTOMER1362@EMAIL.COM,North
+2024-06-15,4490,Monitor,Computers,3.0,,Debit Card,Processing,customer4490@email.com,West
+2024-05-13,9780,Mouse,,2.0,2692.86,Credit Card,PENDING,customer9780@email.com,East
+2024-05-09,2205,Mouse,Computers,,2850.14, PayPal ,Cancelled,customer2205@email.com,North
+2024-10-20,1778,Camera,Accessories,5.0,1288.55,PayPal,Cancelled,customer1778@email.com,east
+2024-02-15,8867,Tablet,Accessories,,986.79,Pix,Cancelled,customer8867@email.com,Central
+2024-01-05,1207,Tablet,Electronics,2.0,2266.79,PayPal,Shipped,customer1207@email.com,East
+2024-03-23,4081,Smartwatch,Electronics,3.0,872.87,PayPal,DELIVERED ,customer4081@email.com,Central
+2024-04-08,3645,Smartphone,Accessories,1.0,2473.86,Pix,Processing,customer3645@email.com,South
+2024-05-23,5569,Headphones,Audio,N/A,969.82,Credit Card,Shipped,customer5569@email.com,Central
+2024-06-11,1943,Monitor,Audio,2.0,545.95,Credit Card,Cancelled ,customer1943@email.com,Central
+2024-06-26,3428,Smartwatch,Audio,3.0,179.92,Pix,Shipped,customer3428@email.com,Central
+2024-10-12,2868,Headphones,Electronics,1.0,,Bank Transfer,Shipped,customer2868@email.com,Central
+2024-08-14,6084,Keyboard,Photography,1.0,2297.56,Bank Transfer,Processing,customer6084@email.com,West
+2024-09-13,5644,Headphones,Electronics,1.0,687.94,Credit Card,Processing,customer5644@email.com,East
+2024-09-23,6232,Headphones,Computers,Unknown,,Credit Card,DELIVERED,customer6232@email.com,North
+2024-10-15,9007,Laptop,Computers,4.0,,Pix,Delivered,customer9007@email.com,North
+2024-01-10,6085,Keyboard,Accessories,N/A,2102.09,Credit Card,PROCESSING,CUSTOMER6085@EMAIL.COM,West
+2024-04-01,1899,Smartphone,Electronics,1.0,439.3,Debit Card,Delivered,customer1899@email.com,East
+2024-05-19,8643,Keyboard,Electronics,5.0,2929.75,Bank Transfer,Processing,customer8643@email.com,East
+2024-07-07,3551,Mouse,Electronics,5.0,,Pix,Shipped,customer3551 @ email.com,Central
+2024-08-09,9586,Mouse,Audio,2.0,1177.64,Credit Card,Delivered,customer9586@email.com,East
+2024-07-05,7295,Tablet,Electronics,4.0,2929.3,Credit Card, Shipped,customer7295@email.com,South
+2024-01-06,7573,Monitor,Photography,Unknown,177.0,Credit Card,Delivered,customer7573@email.com,North
+2024-05-28,5543,Smartwatch,Photography,5.0,2512.04,Pix,Pending,customer5543@email.com,South
+2024-01-08,2925,Monitor,Photography,4.0,2206.91,Debit Card,Processing,customer2925@email.com,South
+2024-02-04,7028,Smartwatch,Audio,2.0,2370.79,Credit Card,Pending,customer7028@email.com,Central
+2024-07-04,6043,Laptop,Photography,4.0,,Pix,Pending,customer6043@email.com,north
+2024-09-13,4223,Speaker,Electronics,1.0,2513.44,Bank Transfer,Cancelled,customer4223@email.com,North
+2024-08-17,6295,Headphones,Photography,3.0,,Debit Card,Pending,customer6295@email.com,South
+2024-02-19,4391,Speaker,Audio,2.0,,Debit Card,Cancelled,customer4391 @ email.com,South
+2024-05-10,3832,Laptop,Accessories,1.0,1082.34,Bank Transfer,Shipped,CUSTOMER3832@EMAIL.COM,South
+2024-05-26,8186,Mouse,Accessories,1.0,2650.77,Bank Transfer,Pending,customer8186@email.com,West
+2024-10-10,5146,Headphones,Electronics,,2555.08,Pix,Delivered,customer5146@email.com,West
+2024-07-08,3060,Speaker,Accessories,5.0,,Bank Transfer,Pending,customer3060@email.com,North
+2024-04-22,3920,Headphones,Photography,2.0,924.36,Bank Transfer,Shipped,customer3920@email.com,North
+2024-04-25,8970,Smartphone,,,427.41,Bank Transfer,Shipped,customer8970@email.com,Central
+2024-08-10,2380,Monitor,Accessories,???,1771.63,Credit Card,Pending,CUSTOMER2380@EMAIL.COM,East
+2024-06-02,9680,Tablet,Accessories,2.0,718.89,PayPal,Cancelled,customer9680 @ email.com,East
+2024-06-09,9232,Headphones,Photography,2.0,2975.73,,Shipped,customer9232@email.com,South
+2024-04-10,1920,Tablet,Audio,,172.42,Bank Transfer,Cancelled,customer1920@email.com,South
+2024-05-05,2709,Monitor,Audio,5.0,830.32,Debit Card,Pending,customer2709@email.com,Central
+2024-04-09,5232,Laptop,Accessories,4.0,1041.22,Credit Card, Cancelled,customer5232@email.com,North
+2024-10-12,3896,Camera,Audio,4.0,1691.17,Debit Card,Pending ,customer3896@email.com,South
+2024-03-16,1974,Speaker,Photography,,1593.27, Credit Card ,Shipped,customer1974@email.com,north
+2024-10-12,2792,Headphones,Audio,3.0,970.98,PayPal,Processing,customer2792@email.com,West
+2024-10-22,7943,Headphones,Audio,5.0,1647.86,PayPal,Delivered,customer7943@email.com,West
+2024-09-21,7402,Keyboard,Computers,4.0,2284.52,Credit Card,Pending,customer7402@email.com,South
+2024-08-16,9357,Monitor,Photography,,613.84,PayPal,Cancelled,customer9357@email.com,South
+2024-10-10,6959,Smartwatch,Accessories,2.0,,PayPal,Delivered,customer6959@email.com,north
+2024-08-07,2939,Smartphone,Electronics,3.0,473.02,PayPal,Cancelled,customer2939@email.com,Central
+2024-09-08,4239,Monitor,Photography,4.0,2257.07,Pix,Pending,customer4239@email.com,North
+2024-07-26,7565,Smartwatch,Accessories,1.0,955.37,PayPal,Processing,customer7565@email.com,East
+2024-09-14,3048,Headphones,Electronics,4.0,2242.09,Credit Card,Processing,customer3048@email.com,North
+2024-04-05,5212,Speaker,Photography,5.0,1757.58,PayPal,Delivered,customer5212@email.com,West
+2024-09-21,9567,Monitor,Accessories,4.0,355.85,Pix,PROCESSING,customer9567 @ email.com,East
+2024-06-11,8490,Smartphone,Computers,5.0,183.49,PayPal,Processing,customer8490@email.com,South
+2024-05-23,9044,Tablet,Accessories,3.0,2026.6,Pix,Cancelled,customer9044 @ email.com,central
+2024-10-20,6182,Mouse,Photography,2.0,1760.19,Debit Card,Shipped,customer6182@email.com,North
+2024-09-10,1054,Mouse,Accessories,1.0,1529.65,Credit Card,Shipped,customer1054@email.com,South
+2024-07-09,7941,Smartphone,,4.0,1190.53,Pix,Shipped,customer7941@email.com,North
+2024-02-29,8617,Mouse,Photography,3.0,2201.92,Credit Card,Processing,customer8617@email.com,Central
+2024-10-18,1661,Smartwatch,Electronics,5.0,,Pix,Processing,customer1661@email.com,East
+2024-06-28,7236,Headphones,Accessories,4.0,1664.87,Credit Card,Pending,customer7236@email.com,West
+2024-02-27,3074,Monitor,Audio,3.0,2824.24, Debit Card ,Cancelled,customer3074@email.com,central
+2024-08-20,8294,Camera,Audio,5.0,531.84,PayPal,Shipped,customer8294@email.com,North
+2024-06-24,7852,Tablet,Audio,,508.94,Bank Transfer,Shipped,CUSTOMER7852@EMAIL.COM,South
+2024-05-06,1352,Smartwatch,Accessories,1.0,,Credit Card,PENDING,customer1352@email.com,East
+2024-09-29,8878,Keyboard,Audio,4.0,918.09,Bank Transfer,Shipped,customer8878@email.com,West
+2024-09-24,2828,Tablet,Audio,3.0,64.83,Credit Card,Delivered,CUSTOMER2828@EMAIL.COM,East
+2024-08-17,6295,Headphones,Photography,3.0,,Debit Card,Pending,customer6295@email.com,South
+2024-07-10,5831,Camera,Electronics,???,2134.69,PayPal, Delivered,customer5831@email.com,East
+2024-05-27,3065,Smartphone,Computers,5.0,1774.27,PayPal,Delivered ,customer3065@email.com,North
+2024-09-24,8973,Monitor,,1.0,1874.65,Credit Card,Shipped,customer8973@email.com,Central
+2024-01-20,8059,Monitor,Computers,,863.48,Debit Card,Processing,customer8059@email.com,West
+2024-01-14,1956,Smartwatch,,2.0,555.32,PayPal,Cancelled,customer1956@email.com,West
+2024-06-28,2466,Headphones,Photography,3.0,1726.97,Credit Card,Shipped,customer2466@email.com,East
+2024-01-12,5904,Tablet,Accessories,5.0,704.26,Credit Card,Processing,customer5904@email.com,South
+2024-05-23,1726,Mouse,Audio,5.0,2202.65,PayPal,Delivered,customer1726@email.com,west
+2024-09-11,3371,Camera,Computers,4.0,1274.96,Credit Card,Delivered,customer3371@email.com,Central
+2024-08-11,3353,Monitor,Electronics,5.0,1979.77,Debit Card,Delivered,customer3353@email.com,South
+2024-08-05,9820,Mouse,Electronics,1.0,2273.52,Debit Card,Processing,customer9820@email.com,West
+2024-09-27,6966,Keyboard,Electronics,4.0,1556.16,Bank Transfer,PENDING,customer6966@email.com,North
+2024-04-20,5555,Monitor,Audio,1.0,2012.83, Pix ,PROCESSING,customer5555@email.com,South
+2024-02-23,3752,Tablet,Photography,1.0,1824.96,Credit Card,Cancelled,customer3752 @ email.com,Central
+2024-03-21,9135,Tablet,Electronics,3.0,2877.57,Pix,Delivered,customer9135@email.com,South
+2024-05-08,6083,Smartphone,Computers,4.0,2234.67, Bank Transfer ,Pending,customer6083@email.com,Central
+2024-01-21,2994,Speaker,Accessories,,,PayPal,Shipped,customer2994@email.com,East
+2024-10-09,6233,Monitor,Audio,4.0,1116.55,,Shipped,customer6233@email.com,Central
+2024-09-09,8206,Laptop,Electronics,5.0,1083.72,Bank Transfer,Shipped,customer8206@email.com,South
+2024-02-06,8511,Mouse,,5.0,608.71,Credit Card,Shipped,customer8511@email.com,south
+2024-05-05,1338,Headphones,Electronics,4.0,1865.0,Debit Card,Shipped,customer1338@email.com,South
+2024-02-17,1950,Camera,Computers,4.0,1981.39,Pix,Pending,customer1950 @ email.com,south
+2024-01-05,3120,Laptop,Accessories,1.0,,Pix, Processing,customer3120@email.com,west
+2024-01-12,7353,Smartphone,Photography,1.0,,Credit Card,Pending,customer7353@email.com,North
+2024-09-25,2639,Speaker,Electronics,,1787.35,Pix,Pending,customer2639@email.com,Central
+2024-07-26,7150,Smartwatch,Electronics,1.0,1451.11,Pix,Delivered,customer7150@email.com,East
+2024-05-29,7283,Smartphone,Electronics,5.0,,PayPal,Processing,customer7283@email.com,East
+2024-01-20,9340,Laptop,Audio,1.0,,PayPal,Shipped,customer9340@email.com,East
+2024-08-11,1933,Speaker,Electronics,3.0,987.2,Bank Transfer,Delivered,customer1933@email.com,North
+2024-08-25,-999,Headphones,Audio,N/A,2989.37,Pix,Shipped,customer1390@email.com,west
+2024-08-07,3599,Speaker,Photography,5.0,2352.64,Bank Transfer,Cancelled,customer3599@email.com,West
+2024-03-21,7490,Speaker,Electronics,2.0,2590.08, PayPal ,Cancelled,customer7490@email.com,West
+2024-05-12,2640,Smartwatch,Computers,1.0,,PayPal,Shipped,customer2640@email.com,East
+2024-07-25,2389,Mouse,Photography,3.0,2992.99,Debit Card,Delivered ,customer2389 @ email.com,South
+2024-02-08,5876,Camera,Computers,5.0,2062.35,Pix,Delivered,customer5876@email.com,North
+2024-01-13,5788,Smartphone,Accessories,3.0,1554.94,Bank Transfer,Cancelled,customer5788@email.com,east
+2024-06-22,4020,Smartphone,Accessories,2.0,,PayPal,Pending,customer4020@email.com,West
+2024-06-09,9966,Tablet,Photography,5.0,2830.03,PayPal,Processing,customer9966@email.com,west
+2024-09-28,8437,Smartwatch,Photography,2.0,1876.76,PayPal,Cancelled,customer8437@email.com,North
+2024-09-15,9213,Smartwatch,Photography,,2814.47,PayPal,Cancelled,customer9213@email.com,Central
+2024-07-13,4144,Smartwatch,Electronics,Unknown,975.43,Credit Card,Delivered,customer4144@email.com,East
+2024-04-07,5422,Tablet,Electronics,5.0,2848.8,PayPal,Shipped,customer5422@email.com,North
+2024-01-01,1894,Smartphone,Audio,1.0,324.93,PayPal,Shipped,customer1894@email.com,Central
+2024-02-21,8214,Smartphone,Accessories,3.0,1348.17,Debit Card,Cancelled,customer8214@email.com,Central
+2024-07-01,7082,Headphones,Computers,4.0,78.58,Bank Transfer,Cancelled,customer7082@email.com,South
+2024-07-12,3396,Tablet,Audio,2.0,1775.98,Credit Card,Cancelled,customer3396@email.com,South
+2024-09-27,5227,Keyboard,Electronics,3.0,1835.96,Pix,PROCESSING,customer5227@email.com,West
+2024-08-10,9245,Laptop,Photography,4.0,365.82,PayPal,Shipped,customer9245@email.com,South
+2024-01-01,9073,Tablet,Computers,3.0,1291.25,,Delivered,customer9073@email.com,West
+2024-01-28,7895,Keyboard,Computers,1.0,183.62,Debit Card,Pending,customer7895@email.com,East
+2024-01-22,7035,Smartphone,Accessories,2.0,661.46,Credit Card,Shipped,customer7035@email.com,East
+2024-08-23,4744,Keyboard,Electronics,5.0,733.07,Bank Transfer,Shipped,customer4744@email.com,East
+2024-02-05,6490,Speaker,Computers,2.0,2221910.0,Pix,CANCELLED,customer6490@email.com,West
+2024-08-04,9202,Monitor,Electronics,,855.47, Debit Card ,Pending,customer9202@email.com,East
+2024-02-21,2625,Mouse,Electronics,4.0,1145.88,Bank Transfer, Shipped,customer2625@email.com,West
+2024-01-06,2304,Camera,Computers,5.0,59.27,PayPal,Pending,customer2304@email.com,East
+2024-08-27,3482,Monitor,Photography,4.0,2071.92,Pix,Delivered,customer3482@email.com,south
+2024-02-16,8124,Headphones,Computers,2.0,2566.3,Bank Transfer,Delivered ,customer8124 @ email.com,South
+2024-05-31,-999,Tablet,Photography,2.0,,Pix,Cancelled ,customer8126@email.com,East
+2024-05-12,2640,Smartwatch,Computers,1.0,,PayPal,Shipped,customer2640@email.com,East
+2024-02-16,2240,Camera,,2.0,1584.22,Credit Card,Pending,customer2240@email.com,Central
+2024-04-20,4374,Laptop,Electronics,5.0,, Pix ,Pending,customer4374@email.com,Central
+2024-02-08,4067,Camera,Accessories,2.0,1565.86,,Shipped,customer4067@email.com,Central
+2024-04-15,3720,Keyboard,Audio,3.0,2401.77,Bank Transfer,Delivered ,customer3720@email.com,Central
+2024-06-18,4177,Speaker,Computers,2.0,946.89,PayPal,Shipped,customer4177@email.com,East
+2024-03-21,7047,Smartphone,Photography,1.0,2086.7,Credit Card,Pending,customer7047@email.com,North
+2024-08-14,8326,Headphones,Electronics,3.0,2332.3,Debit Card,Pending,CUSTOMER8326@EMAIL.COM,south
+2024-07-07,8119,Laptop,Electronics,1.0,2138.96,Pix,Shipped,customer8119@email.com,North
+2024-05-14,-999,Speaker,Audio,2.0,,PayPal,SHIPPED,CUSTOMER1922@EMAIL.COM,East
+2024-10-05,8486,Laptop,Photography,1.0,,PayPal,DELIVERED,customer8486@email.com,East
+2024-06-28,9942,Headphones,Electronics,5.0,1698.36,,Cancelled,customer9942@email.com,South
+2024-02-29,7305,Headphones,Electronics,5.0,2087.51,Pix,Pending,customer7305@email.com,East
+2024-01-19,2389,Mouse,Accessories,1.0,2601.64,PayPal,PROCESSING,customer2389@email.com,West
+2024-01-29,1984,Smartwatch,Electronics,1.0,2903.43,Pix,Shipped,customer1984@email.com,east
+2024-05-12,6776,Mouse,Electronics,3.0,1224.77,PayPal,Delivered,customer6776@email.com,West
+2024-09-09,3026,Laptop,Computers,,2968.19,Credit Card,Cancelled,customer3026@email.com,Central
+2024-05-12,1514,Smartphone,Audio,1.0,1260.96,Bank Transfer,Shipped,customer1514@email.com,Central
+2024-02-10,2248,Smartphone,Computers,4.0,,Credit Card,Pending,customer2248@email.com,West
+2024-10-09,3891,Mouse,Electronics,2.0,2670.97,Bank Transfer,Cancelled,customer3891@email.com,West
+2024-02-18,3768,Smartphone,Photography,Unknown,1870.8,Credit Card,SHIPPED,customer3768@email.com,North
+2024-04-24,1920,Monitor,Photography,4.0,2393.72,Credit Card,PENDING,customer1920@email.com,North
+2024-09-13,8863,Smartphone,Computers,1.0,690.83,Bank Transfer,Pending ,customer8863@email.com,South
